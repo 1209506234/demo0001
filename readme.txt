@@ -1,1 +1,3 @@
 hello welcome to use git & github.
+
+GitHub是一个面向开源及私有软件项目的托管平台,因为只支持Git作为唯一的版本库格式进行托管,故名GitHub。GitHub于2008年4月10日正式上线,除了Git代码仓库托管及基本...
